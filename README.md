@@ -1,1 +1,1 @@
-Notepap for android
+Notepad for android
